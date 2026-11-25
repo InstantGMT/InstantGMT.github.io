@@ -105,7 +105,8 @@ img,video,svg{display:block;max-width:100%}
 
 /* video grid */
 .vgrid{display:grid;gap:14px;grid-template-columns:1fr}
-@media (min-width:735px){.vgrid.c2{grid-template-columns:1fr 1fr}.vgrid.c3{grid-template-columns:repeat(3,1fr)}}
+@media (min-width:735px){.vgrid.c2{grid-template-columns:1fr 1fr}.vgrid.c3{grid-template-columns:repeat(3,1fr)}.vgrid.c4{grid-template-columns:1fr 1fr}}
+@media (min-width:1000px){.vgrid.c4{grid-template-columns:repeat(4,1fr)}}
 .vcap{margin:10px 2px 0;font-size:14px;color:var(--ink2)}
 .vcap b{color:var(--ink)}
 
