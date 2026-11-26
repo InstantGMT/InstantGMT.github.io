@@ -10,7 +10,7 @@ Project page of *InstantGMT: General Motion Tracking for Humanoid Teleoperation 
 - `assets/js/videos.js`: plays a video only while it is on screen; visitors who ask for reduced motion get controls instead of autoplay.
 - `assets/js/bg-fx.js`: the animated background of the dark theme.
 - `media/real/`: real-robot clips under live VR teleoperation, real time, faces blurred.
-- `media/sim/`, `media/m2/`: Blender renders of InstantGMT policies tracking motions in MuJoCo (the Unitree G1, and a second humanoid with parallel ankles).
+- `media/sim/`, `media/m2/`, `media/mini/`: Blender renders of InstantGMT policies tracking motions in MuJoCo (the Unitree G1, and two humanoids with parallel ankles).
 
 ## Viewing locally
 
