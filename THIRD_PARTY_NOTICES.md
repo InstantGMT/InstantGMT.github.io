@@ -40,7 +40,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ## 100STYLE motions
 
-The reference motions in `assets/g1tree/g1_motion.bin` and `assets/replay/tree/g1_motion.bin` are adapted from the 100STYLE dataset (I. Mason, S. Starke, T. Komura, "Real-Time Style Modelling of Human Locomotion via Feature-Wise Transformations and Local Motion Phases", 2022), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Changes: retargeted to the Unitree G1, cut into 3 s segments, quantized. The recorded robot states in `assets/replay/rollouts.bin` were simulated while tracking these motions.
+The reference motions in `assets/g1tree/g1_motion.bin` and `assets/replay/tree/g1_motion.bin` are adapted from the 100STYLE dataset (I. Mason, S. Starke, T. Komura, "Real-Time Style Modelling of Human Locomotion via Feature-Wise Transformations and Local Motion Phases", 2022), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Changes: retargeted to the Unitree G1, cut into 3 s segments, quantized. The recorded robot states in `assets/replay/rollouts.bin` were simulated while tracking these motions. The simulation videos in `media/sim/` and `media/m2/` show robots tracking 100STYLE motions retargeted to each robot (except `media/sim/ground.mp4`, from our own recording).
 
 ## Libraries and fonts loaded by the page
 
